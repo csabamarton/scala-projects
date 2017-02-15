@@ -2,8 +2,8 @@ plugins {
     id 'org.springframework.boot' version '1.4.4.RELEASE'
 }
 
-//group 'com.csmarton'
-//version '1.0-SNAPSHOT'
+group 'com.csmarton'
+version '1.0-SNAPSHOT'
 
 apply plugin: 'java'
 apply plugin: 'scala'
